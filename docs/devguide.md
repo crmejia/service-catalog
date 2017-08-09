@@ -89,7 +89,7 @@ a Kubernetes cluster. As such, our build process only supports compilation of
 linux/amd64 binaries suitable for execution within a Docker container.
 
 ## Workflow
-We can set up the repo by following a process similar to the [dev guide for k8s]( https://github.com/kubernetes/community/blob/master/contibutors/devel/development.md#1-fork-in-the-cloud)
+We can set up the repo by following a process similar to the [dev guide for k8s]( https://github.com/kubernetes/community/blob/master/contributors/devel/development.md#1-fork-in-the-cloud)
 
 ### 1 Fork in the Cloud
 1. Visit Visit https://github.com/kubernetes-incubator/service-catalog
